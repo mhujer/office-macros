@@ -1,0 +1,7 @@
+Jak naimportovat makra do Wordu
+-----------------------------------
+1) RMB na "Domů" -> Přizpůsobit pás karet -> Zaškrtnout "Vývojář"
+2) Makra -> Vytvořit nějaké nové
+3) Místo všeho kódu (jen prázdná metoda pro to nově vytvořené makro) vložit kód z DocxKindleTools.vbs
+4) Vyzkoušet, jestli makra jde spustit z toho správce maker
+5) Panel úplně nahoře -> RMB -> "Připůsobit panel nástrojů Rychlý přístup" -> z "Makra" -> přeházet doprava, případně navolit ikonky
